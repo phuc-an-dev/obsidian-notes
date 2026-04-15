@@ -27,9 +27,9 @@ related: "[[Note liên quan]]"
 ---
 ```
 
-## 🚀 Các nội dung mới cập nhật (Spring Boot)
+## 🚀 Các nội dung mới cập nhật
 
-Gần đây mình đã hoàn thiện bộ note về giao tiếp HTTP trong Spring Boot:
+Gần đây mình đã hoàn thiện bộ note về giao tiếp HTTP và cơ chế cốt lõi của JavaScript:
 - `EventListener`: Cơ chế loose coupling thông qua sự kiện.
 - `Spring HTTP Core`: HttpHeaders, HttpStatus, ResponseEntity,...
 - `HTTP Clients`: Tổng quan về các bộ gọi API.
@@ -37,6 +37,8 @@ Gần đây mình đã hoàn thiện bộ note về giao tiếp HTTP trong Sprin
 - `WebClient`: Client Reactive/Non-blocking hiện đại.
 - `RestClient`: Client đồng bộ mới từ Spring 6.1.
 - `Feign Client`: Declarative HTTP Client cho Microservices.
+- `Event Loop`: Cơ chế xử lý bất đồng bộ trong JavaScript/Node.js.
+- `Non-blocking I/O`: Mô hình xử lý Input/Output hiệu năng cao.
 
 ---
 *Ghi chú này được duy trì và cập nhật bởi Gemini CLI.*

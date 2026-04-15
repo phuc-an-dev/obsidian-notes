@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
+                "file": "01-Knowledge/Event Loop.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RestTemplate in Spring Boot"
+              "title": "Event Loop"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
+                "file": "01-Knowledge/Event Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for RestTemplate in Spring Boot"
+              "title": "Backlinks for Event Loop"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
+                "file": "01-Knowledge/Event Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RestTemplate in Spring Boot"
+              "title": "Outgoing links from Event Loop"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
+                "file": "01-Knowledge/Event Loop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of RestTemplate in Spring Boot"
+              "title": "Outline of Event Loop"
             }
           }
         ]
@@ -185,11 +185,13 @@
   },
   "active": "491b444fb4f9fcbe",
   "lastOpenFiles": [
-    "01-Knowledge/java-spring/Feign Client in Spring Boot.md",
+    "01-Knowledge/Non-blocking IO.md",
     "01-Knowledge/java-spring/RestClient in Spring Boot.md",
-    "01-Knowledge/java-spring/Spring HTTP Core Classes.md",
     "01-Knowledge/java-spring/WebClient in Spring Boot.md",
+    "01-Knowledge/java-spring/Spring HTTP Core Classes.md",
     "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
+    "01-Knowledge/Event Loop.md",
+    "01-Knowledge/java-spring/Feign Client in Spring Boot.md",
     "01-Knowledge/java-spring/HTTP Clients in Spring.md",
     "01-Knowledge/java-spring/Researching an Existing Module (i18n Spring Boot use case).md",
     "01-Knowledge/java-spring/EventListener in Spring Boot.md",
