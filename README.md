@@ -37,6 +37,8 @@ Gần đây mình đã hoàn thiện bộ note về giao tiếp HTTP và cơ ch�
 - `WebClient`: Client Reactive/Non-blocking hiện đại.
 - `RestClient`: Client đồng bộ mới từ Spring 6.1.
 - `Feign Client`: Declarative HTTP Client cho Microservices.
+- `Event Publisher`: Cơ chế phát sự kiện trong Spring.
+- `DeepL API`: Tích hợp dịch thuật AI.
 - `Event Loop`: Cơ chế xử lý bất đồng bộ trong JavaScript/Node.js.
 - `Non-blocking I/O`: Mô hình xử lý Input/Output hiệu năng cao.
 

@@ -37,11 +37,11 @@ related: "[[Spring HTTP Core Classes]]"
 - Nếu chỉ gọi các phương thức trong cùng một ứng dụng (Monolith).
 
 ## 7. Trade-offs
-| Client | Mô hình | Ưu điểm | Nhược điểm |
-|--------|---------|---------|------------|
-| **RestTemplate** | Blocking | Đơn giản, quen thuộc. | Hiệu năng kém khi concurrency cao (1 thread/request). |
-| **WebClient** | Non-blocking | Hiệu năng cực cao, hỗ trợ Streaming. | Độ phức tạp cao (Project Reactor/Flux/Mono). |
-| **RestClient** | Blocking (Modern) | API dạng Fluent (giống WebClient) nhưng đồng bộ. | Mới (từ Spring 6.1+), cần Java 17+. |
+| Client           | Mô hình           | Ưu điểm                                          | Nhược điểm                                            |
+| ---------------- | ----------------- | ------------------------------------------------ | ----------------------------------------------------- |
+| **RestTemplate** | Blocking          | Đơn giản, quen thuộc.                            | Hiệu năng kém khi concurrency cao (1 thread/request). |
+| **WebClient**    | Non-blocking      | Hiệu năng cực cao, hỗ trợ Streaming.             | Độ phức tạp cao (Project Reactor/Flux/Mono).          |
+| **RestClient**   | Blocking (Modern) | API dạng Fluent (giống WebClient) nhưng đồng bộ. | Mới (từ Spring 6.1+), cần Java 17+.                   |
 
 ## 8. Alternatives (with comparison)
 | Option | Đặc điểm |
