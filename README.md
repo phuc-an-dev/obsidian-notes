@@ -13,7 +13,7 @@ Hệ thống được tổ chức theo phương pháp PARA:
 
 ## 📝 Quy chuẩn ghi chú (Note Convention)
 
-Mọi ghi chú trong hệ thống này đều tuân thủ theo quy chuẩn 13 phần định nghĩa tại [NOTE_CONVENTION.md](./NOTE_CONVENTION.md) để đảm bảo tính thực tế, sâu sắc và hỗ trợ tốt cho việc ôn luyện phỏng vấn.
+Mọi ghi chú trong hệ thống này đều tuân thủ theo quy chuẩn 16 phần định nghĩa tại [NOTE_CONVENTION.md](./NOTE_CONVENTION.md) để đảm bảo tính thực tế, sâu sắc và hỗ trợ tốt cho việc ôn luyện phỏng vấn.
 
 ### Metadata mẫu:
 ```yaml

@@ -11,14 +11,10 @@
             "id": "491b444fb4f9fcbe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Knowledge/java-spring/EventListener in Spring Boot.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "EventListener in Spring Boot"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:status/draft",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 345.5
   },
   "right": {
     "id": "a58e16eabec3b1dc",
@@ -94,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Knowledge/java-spring/EventListener in Spring Boot.md",
+                "file": "01-Knowledge/java-core/Optional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for EventListener in Spring Boot"
+              "title": "Backlinks for Optional"
             }
           },
           {
@@ -113,12 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Knowledge/java-spring/EventListener in Spring Boot.md",
+                "file": "01-Knowledge/java-core/Optional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from EventListener in Spring Boot"
+              "title": "Outgoing links from Optional"
             }
           },
           {
@@ -156,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Knowledge/java-spring/EventListener in Spring Boot.md",
+                "file": "01-Knowledge/java-core/Optional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EventListener in Spring Boot"
+              "title": "Outline of Optional"
             }
           }
         ]
@@ -185,42 +181,45 @@
   },
   "active": "491b444fb4f9fcbe",
   "lastOpenFiles": [
-    "01-Knowledge/java-spring/Event Publisher & DeepL API.md",
-    "02-Projects/Tamice - Logging Refactor.md",
+    "01-Knowledge/system-design/RESTful API.md",
+    "01-Knowledge/react/useState.md",
+    "01-Knowledge/java-core/Pattern Matching for Switch.md",
+    "01-Knowledge/others/google-tag.md",
+    "01-Knowledge/react/i18next.md",
+    "01-Knowledge/database/criteria-api.md",
     "01-Knowledge/java-spring/EventListener in Spring Boot.md",
-    "01-Knowledge/java-spring/Feign Client in Spring Boot.md",
-    "01-Knowledge/java-spring/HTTP Clients in Spring.md",
-    "Spring Framework.md",
-    "01-Knowledge/java-spring/Spring HTTP Core Classes.md",
-    "01-Knowledge/java-spring/WebClient in Spring Boot.md",
+    "01-Knowledge/java-core/Optional.md",
+    "01-Knowledge/others/framework-agnostic.md",
+    "01-Knowledge/java-spring/specification-spring-data-jpa.md",
+    "01-Knowledge/react/query-key-array.md",
+    "01-Knowledge/react/query-key-factory.md",
+    "01-Knowledge/react/react-suspense.md",
+    "01-Knowledge/javascript/typescript.md",
+    "01-Knowledge/javascript/axios.md",
+    "01-Knowledge/javascript/dayjs.md",
+    "01-Knowledge/react/react-lifecycle.md",
+    "01-Knowledge/react/i18next-best-practices.md",
+    "01-Knowledge/react/useTranslation.md",
+    "01-Knowledge/react/react-i18next.md",
+    "01-Knowledge/react/i18next-store.md",
+    "01-Knowledge/react/useQuery-useMutation.md",
+    "01-Knowledge/others/fnv-1a.md",
+    "01-Knowledge/react/tanstack-react-query.md",
     "01-Knowledge/Event Loop.md",
-    "01-Knowledge/Non-blocking IO.md",
-    "01-Knowledge/java-spring/RestClient in Spring Boot.md",
-    "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
-    "01-Knowledge/java-spring/Researching an Existing Module (i18n Spring Boot use case).md",
-    "Example Note.md",
+    "01-Knowledge/nodejs/Non-blocking IO.md",
+    "01-Knowledge/nodejs",
+    "01-Knowledge/others",
+    "01-Knowledge/database",
+    "01-Knowledge/system-design",
+    "01-Knowledge/devops",
+    "01-Knowledge/react",
+    "01-Knowledge/javascript",
+    "01-Knowledge/java-core",
     "Untitled.base",
     "Untitled",
-    "2026-04-15.md",
-    "01-Knowledge/java-spring/Event Listener in Spring Boot.md",
-    "01-Knowledge/java-spring/Spring Boot Event Listeners (ApplicationEventPublisher).md",
-    "01-Knowledge/java-spring/Spring Event Listener.md",
-    "Spring Boot i18n.md",
-    "01-Knowledge/java-spring.md",
-    "01-Knowledge/java-spring",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "2026-04-14.md",
-    "Untitled 1.base",
-    "Spring Boot - Exception Handling.md",
-    "Spring Boot - Logging.md",
-    "REST API Design.md",
-    "Welcome.md",
-    "03-Resources",
-    "02-Projects",
-    "01-Knowledge",
-    "00-Inbox"
+    "Untitled.canvas"
   ]
 }
