@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/java"
   - "#topic/pattern-matching"
-related: "[[Optional]]"
+related:
+  - "[[Optional]]"
 ---
 
 # Pattern Matching for Switch

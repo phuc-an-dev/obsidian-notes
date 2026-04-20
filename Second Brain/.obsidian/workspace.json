@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52ff3d2d3fbc993e",
+        "id": "d6a26a3b8c3528c8",
         "type": "tabs",
         "children": [
           {
-            "id": "491b444fb4f9fcbe",
+            "id": "872f5b39a1d5d89b",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:type/concept",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,16 +179,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "491b444fb4f9fcbe",
+  "active": "872f5b39a1d5d89b",
   "lastOpenFiles": [
+    "01-Knowledge/java-spring/spring-cloud-starter-aws.md",
+    "01-Knowledge/java-spring/RestClient in Spring Boot.md",
+    "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
+    "2026-04-17.md",
+    "Feign Client in Spring Boot]], [[WebClient in Spring Boot.md",
+    "HTTP Clients in Spring]], [[WebClient in Spring Boot.md",
+    "HTTP Clients in Spring]], [[RestTemplate in Spring Boot]], [[RestClient in Spring Boot.md",
+    "01-Knowledge/java-spring/WebClient in Spring Boot.md",
+    "01-Knowledge/react/react-lifecycle.md",
+    "01-Knowledge/java-core/Pattern Matching for Switch.md",
+    "01-Knowledge/java-core/Optional.md",
     "01-Knowledge/system-design/RESTful API.md",
     "01-Knowledge/react/useState.md",
-    "01-Knowledge/java-core/Pattern Matching for Switch.md",
     "01-Knowledge/others/google-tag.md",
     "01-Knowledge/react/i18next.md",
     "01-Knowledge/database/criteria-api.md",
     "01-Knowledge/java-spring/EventListener in Spring Boot.md",
-    "01-Knowledge/java-core/Optional.md",
     "01-Knowledge/others/framework-agnostic.md",
     "01-Knowledge/java-spring/specification-spring-data-jpa.md",
     "01-Knowledge/react/query-key-array.md",
@@ -197,16 +206,7 @@
     "01-Knowledge/javascript/typescript.md",
     "01-Knowledge/javascript/axios.md",
     "01-Knowledge/javascript/dayjs.md",
-    "01-Knowledge/react/react-lifecycle.md",
     "01-Knowledge/react/i18next-best-practices.md",
-    "01-Knowledge/react/useTranslation.md",
-    "01-Knowledge/react/react-i18next.md",
-    "01-Knowledge/react/i18next-store.md",
-    "01-Knowledge/react/useQuery-useMutation.md",
-    "01-Knowledge/others/fnv-1a.md",
-    "01-Knowledge/react/tanstack-react-query.md",
-    "01-Knowledge/Event Loop.md",
-    "01-Knowledge/nodejs/Non-blocking IO.md",
     "01-Knowledge/nodejs",
     "01-Knowledge/others",
     "01-Knowledge/database",

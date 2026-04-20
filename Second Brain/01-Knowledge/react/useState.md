@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/react"
   - "#topic/state-management"
-related: "[[useReducer]]"
+related:
+  - "[[useReducer]]"
 ---
 
 ## 1. What

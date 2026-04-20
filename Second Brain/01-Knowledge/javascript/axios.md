@@ -4,7 +4,8 @@ tags:
   - "#type/concept"
   - "#status/draft"
   - "#lang/javascript"
-related: "[[WebClient in Spring Boot]]"
+related:
+  - "[[WebClient in Spring Boot]]"
 ---
 ## 1. What
 `Axios` là một thư viện HTTP client dựa trên **Promise**, có thể chạy được trên cả trình duyệt (Browser) và môi trường máy chủ (Node.js). Nó cung cấp một API đơn giản để gửi các request (GET, POST, ...) và xử lý dữ liệu trả về từ máy chủ.

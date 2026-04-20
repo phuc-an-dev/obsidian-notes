@@ -47,7 +47,8 @@ tags:
   - "#status/draft"       # draft | review | done
   - "#lang/java"          # java | spring | javascript | nodejs | react | devops | database | system-design
   - "#topic/async"        # async | http | i18n | state-management | performance | error-handling
-related: "[[Related Note]]"
+related:
+  - "[[Related Note]]"
 ---
 ```
 

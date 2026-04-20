@@ -5,7 +5,10 @@ tags:
   - "#status/draft"
   - "#lang/react"
   - "#topic/i18n"
-related: "[[i18next]], [[useTranslation]], [[i18next-store]]"
+related:
+  - "[[i18next]]"
+  - "[[useTranslation]]"
+  - "[[i18next-store]]"
 ---
 
 # react-i18next

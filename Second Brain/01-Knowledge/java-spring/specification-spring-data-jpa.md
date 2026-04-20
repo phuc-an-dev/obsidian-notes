@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/spring"
   - "#topic/performance"
-related: "[[criteria-api]]"
+related:
+  - "[[criteria-api]]"
 ---
 
 # Spring Data JPA Specification

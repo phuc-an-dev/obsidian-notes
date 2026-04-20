@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/javascript"
   - "#topic/i18n"
-related: "[[react-i18next]]"
+related:
+  - "[[react-i18next]]"
 ---
 
 # i18next

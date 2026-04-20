@@ -5,7 +5,9 @@ tags:
   - "#status/draft"
   - "#lang/javascript"
   - "#topic/i18n"
-related: "[[i18next]], [[react-i18next]]"
+related:
+  - "[[i18next]]"
+  - "[[react-i18next]]"
 ---
 
 # i18next Store Architecture

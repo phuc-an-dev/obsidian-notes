@@ -5,7 +5,10 @@ tags:
   - "#status/draft"
   - "#lang/react"
   - "#topic/i18n"
-related: "[[i18next]], [[react-i18next]], [[useTranslation]]"
+related:
+  - "[[i18next]]"
+  - "[[react-i18next]]"
+  - "[[useTranslation]]"
 ---
 
 # i18next Best Practices
