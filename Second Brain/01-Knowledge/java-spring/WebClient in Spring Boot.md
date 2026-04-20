@@ -6,7 +6,10 @@ tags:
   - "#lang/spring"
   - "#topic/http"
   - "#topic/async"
-related: "[[HTTP Clients in Spring]], [[RestTemplate in Spring Boot]], [[RestClient in Spring Boot]]"
+related:
+  - "[[HTTP Clients in Spring]]"
+  - "[[RestTemplate in Spring Boot]]"
+  - "[[RestClient in Spring Boot]]"
 ---
 
 # WebClient in Spring Boot

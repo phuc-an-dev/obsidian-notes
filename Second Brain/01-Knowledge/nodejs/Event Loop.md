@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/nodejs"
   - "#topic/async"
-related: "[[Non-blocking IO]]"
+related:
+  - "[[Non-blocking IO]]"
 ---
 
 # Event Loop

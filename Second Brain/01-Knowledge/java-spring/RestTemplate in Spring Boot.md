@@ -5,7 +5,9 @@ tags:
   - "#status/draft"
   - "#lang/spring"
   - "#topic/http"
-related: "[[HTTP Clients in Spring]], [[RestClient in Spring Boot]]"
+related:
+  - "[[HTTP Clients in Spring]]"
+  - "[[RestClient in Spring Boot]]"
 ---
 
 # RestTemplate in Spring Boot

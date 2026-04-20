@@ -5,7 +5,9 @@ tags:
   - "#status/draft"
   - "#lang/react"
   - "#topic/i18n"
-related: "[[react-i18next]], [[i18next]]"
+related:
+  - "[[react-i18next]]"
+  - "[[i18next]]"
 ---
 
 # useTranslation

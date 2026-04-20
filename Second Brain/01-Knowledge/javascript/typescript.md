@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/javascript"
   - "#lang/typescript"
-related: "[[javascript/axios]]"
+related:
+  - "[[javascript/axios]]"
 ---
 ## 1. What
 `TypeScript` là một ngôn ngữ lập trình mã nguồn mở được phát triển bởi Microsoft. Nó là một **superset** (tập siêu) của JavaScript, bổ sung thêm **static typing** (kiểu tĩnh) và các tính năng hướng đối tượng vào ngôn ngữ này. Mã nguồn TypeScript sau đó sẽ được biên dịch (transpile) sang JavaScript thuần để có thể chạy trên trình duyệt hoặc Node.js.

@@ -4,7 +4,8 @@ tags:
   - "#type/concept"
   - "#status/draft"
   - "#lang/java"
-related: "[[Event Loop]]"
+related:
+  - "[[Event Loop]]"
 ---
 
 ## 1. What

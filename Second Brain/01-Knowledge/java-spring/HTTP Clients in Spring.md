@@ -5,7 +5,11 @@ tags:
   - "#status/draft"
   - "#lang/spring"
   - "#topic/http"
-related: "[[RestTemplate in Spring Boot]], [[WebClient in Spring Boot]], [[RestClient in Spring Boot]], [[Feign Client in Spring Boot]]"
+related:
+  - "[[RestTemplate in Spring Boot]]"
+  - "[[WebClient in Spring Boot]]"
+  - "[[RestClient in Spring Boot]]"
+  - "[[Feign Client in Spring Boot]]"
 ---
 
 # HTTP Clients in Spring

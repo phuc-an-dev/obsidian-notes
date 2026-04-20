@@ -5,7 +5,7 @@ tags:
   - "#status/draft"
   - "#lang/system-design"
   - "#topic/http"
-related: "[[]]"
+related: []
 ---
 
 ## 1. What

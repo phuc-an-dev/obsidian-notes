@@ -5,7 +5,9 @@ tags:
   - "#status/draft"
   - "#lang/spring"
   - "#topic/http"
-related: "[[HTTP Clients in Spring]], [[WebClient in Spring Boot]]"
+related:
+  - "[[HTTP Clients in Spring]]"
+  - "[[WebClient in Spring Boot]]"
 ---
 
 # Feign Client in Spring Boot

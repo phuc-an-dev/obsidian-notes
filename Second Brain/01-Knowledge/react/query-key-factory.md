@@ -5,7 +5,9 @@ tags:
   - "#status/draft"
   - "#lang/react"
   - "#topic/state-management"
-related: "[[query-key-array]], [[tanstack-react-query]]"
+related:
+  - "[[query-key-array]]"
+  - "[[tanstack-react-query]]"
 ---
 
 # Query Key Factory Pattern

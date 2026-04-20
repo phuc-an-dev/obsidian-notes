@@ -5,7 +5,7 @@ tags:
   - "#status/done"
   - "#lang/javascript"
   - "#topic/analytics"
-related: "[[]]"
+related: []
 ---
 
 ## 1. What

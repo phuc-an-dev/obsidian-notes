@@ -3,9 +3,9 @@ created: 2026-04-17
 tags:
   - "#type/concept"
   - "#status/draft"
-  - "#lang/java"
   - "#topic/null-safety"
-related: "[[Pattern Matching for Switch]]"
+related:
+  - "[[Pattern Matching for Switch]]"
 ---
 
 # Optional

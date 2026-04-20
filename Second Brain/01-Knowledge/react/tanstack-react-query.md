@@ -5,7 +5,10 @@ tags:
   - "#status/draft"
   - "#lang/react"
   - "#topic/state-management"
-related: "[[useQuery-useMutation]], [[query-key-array]], [[query-key-factory]]"
+related:
+  - "[[useQuery-useMutation]]"
+  - "[[query-key-array]]"
+  - "[[query-key-factory]]"
 ---
 
 # TanStack Query (React Query)
