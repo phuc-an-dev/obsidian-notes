@@ -20,7 +20,8 @@ tags:
   - "#status/draft"       # draft | review | done
   - "#lang/java"          # java | spring | javascript | nodejs | react | devops | database | system-design
   - "#topic/async"        # async | http | i18n | state-management | performance | error-handling
-related: "[[Note liên quan]]"
+related:
+  - "[[Note liên quan]]"
 ---
 ```
 
@@ -85,7 +86,8 @@ tags:
   - "#status/draft"
   - "#lang/"
   - "#topic/"
-related: "[[]]"
+related:
+  - "[[]]"
 ---
 
 ## 1. What
