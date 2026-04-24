@@ -1,46 +1,54 @@
-# Obsidian Second Brain (phuc-an-dev)
+# An Phuc's Second Brain
 
-Chào mừng bạn đến với kho lưu trữ kiến thức cá nhân (Second Brain) của mình. Đây là nơi mình hệ thống hóa các kiến thức về lập trình, đặc biệt là Java Spring Boot, React, và System Design.
+Kiến thức không phải là thứ để tích trữ, mà là công cụ để tư duy. Trong một thế giới công nghệ thay đổi từng ngày, việc sở hữu một hệ thống tri thức được tổ chức chặt chẽ không chỉ giúp tra cứu nhanh chóng mà còn là nền tảng để xây dựng những giải pháp bền vững. An Phuc's Second Brain là một kho lưu trữ kỹ thuật số, nơi mọi khái niệm được mổ xẻ từ bản chất đến thực thi.
 
-## 📂 Cấu trúc thư mục
+## 1. Mục tiêu cốt lõi
 
-Hệ thống được tổ chức theo phương pháp PARA:
-- **00-Inbox**: Nơi chứa các ghi chú nháp, ý tưởng vừa nảy sinh chưa được phân loại.
-- **01-Knowledge**: Kho lưu trữ kiến thức cốt lõi (Core Concepts).
-    - `java-spring/`: Các ghi chú chuyên sâu về Spring Framework, Spring Boot.
-- **02-Projects**: Theo dõi tiến độ và ghi chú cho các dự án thực tế đang triển khai.
-- **03-Resources**: Các nguồn tài liệu tham khảo, cheatsheets, sách và bài báo hay.
+Dự án này được xây dựng với mục đích hệ thống hóa toàn bộ lộ trình phát triển Fullstack, tập trung vào ba trụ cột chính:
+- **Làm chủ bản chất**: Không chỉ học cách dùng, mà học cách hiểu "tại sao" và "đánh đổi là gì".
+- **Hệ thống hóa chuyên sâu**: Mọi ghi chú đều phải đi qua bộ lọc 16 tiêu chuẩn để đảm bảo tính ứng dụng cao.
+- **Hỗ trợ thực chiến**: Lưu trữ các giải pháp tối ưu cho dự án thực tế và chuẩn bị cho các kịch bản phỏng vấn kỹ thuật cao cấp.
 
-## 📝 Quy chuẩn ghi chú (Note Convention)
+## 2. Các lĩnh vực trọng tâm (Tech Stacks)
 
-Mọi ghi chú trong hệ thống này đều tuân thủ theo quy chuẩn 16 phần định nghĩa tại [NOTE_CONVENTION.md](./NOTE_CONVENTION.md) để đảm bảo tính thực tế, sâu sắc và hỗ trợ tốt cho việc ôn luyện phỏng vấn.
+Hệ thống kiến thức được phân loại theo các nhánh công nghệ chủ chốt:
+- **Java Spring Ecosystem**: Chuyên sâu về kiến trúc Microservices, Security, và tối ưu hóa hiệu năng backend.
+- **Next.js & React Modern Patterns**: Tập trung vào App Router, Server Components, Caching strategies và hiệu suất Frontend.
+- **AWS Cloud Architecture**: Thiết kế hệ thống chịu tải cao, Serverless patterns và các quy trình CI/CD chuyên nghiệp.
 
-### Metadata mẫu:
-```yaml
----
-created: yyyy-MM-dd
-tags:
-  - "#type/concept"
-  - "#status/done"
-  - "#lang/java"
-related: "[[Note liên quan]]"
----
-```
+## 3. Quy chuẩn ghi chép (The 16-Section Standard)
 
-## 🚀 Các nội dung mới cập nhật
+Mỗi bản ghi trong hệ thống này không đơn thuần là lý thuyết suông. Chúng tôi tuân thủ nghiêm ngặt cấu trúc 16 phần để đảm bảo tính đa chiều của kiến thức:
+1. **What**: Định nghĩa súc tích.
+2. **Why**: Vấn đề thực tế mà nó giải quyết.
+3. **Mental Model**: Phép ẩn dụ để ghi nhớ bản chất.
+4. **Trade-offs**: Phân tích được và mất khi áp dụng.
+5. **How**: Ví dụ code tối thiểu chạy được.
+... (và 11 phần khác bao gồm Interview Q&A, Production concerns và Alternatives).
 
-Gần đây mình đã hoàn thiện bộ note về giao tiếp HTTP và cơ chế cốt lõi của JavaScript:
-- `EventListener`: Cơ chế loose coupling thông qua sự kiện.
-- `Spring HTTP Core`: HttpHeaders, HttpStatus, ResponseEntity,...
-- `HTTP Clients`: Tổng quan về các bộ gọi API.
-- `RestTemplate`: Client đồng bộ truyền thống.
-- `WebClient`: Client Reactive/Non-blocking hiện đại.
-- `RestClient`: Client đồng bộ mới từ Spring 6.1.
-- `Feign Client`: Declarative HTTP Client cho Microservices.
-- `Event Publisher`: Cơ chế phát sự kiện trong Spring.
-- `DeepL API`: Tích hợp dịch thuật AI.
-- `Event Loop`: Cơ chế xử lý bất đồng bộ trong JavaScript/Node.js.
-- `Non-blocking I/O`: Mô hình xử lý Input/Output hiệu năng cao.
+Phong cách trình bày:
+- Tối giản, chuyên nghiệp, không sử dụng emoji.
+- Tiếng Việt cho phần giải thích, Tiếng Anh cho thuật ngữ kỹ thuật.
 
----
-*Ghi chú này được duy trì và cập nhật bởi Gemini CLI.*
+## 4. Cấu trúc thư mục
+
+Dữ liệu được tổ chức theo Tech Stack để tối ưu hóa việc tra cứu và liên kết:
+- `00-Inbox`: Điểm tiếp nhận các ý tưởng và kiến thức mới chưa phân loại.
+- `01-Knowledge`: Kho tri thức chính thức, phân chia theo:
+    - `/java-spring`: Spring Boot, JPA, Security.
+    - `/nextjs`: App Router, Rendering, Middleware.
+    - `/react`: Hooks, Performance, State Management.
+    - `/aws`: EC2, S3, Lambda, Architecture patterns.
+    - `/system-design`: Kiến trúc hệ thống tổng thể.
+    - `/database`: SQL, NoSQL, Managed Services.
+- `02-Projects`: Lưu trữ ghi chú về các dự án đang triển khai.
+- `03-Resources`: Tài liệu tham khảo, bài blog và khóa học giá trị.
+
+## 5. Tinh thần cộng tác
+
+An Phuc's Second Brain luôn mở cửa cho những ý tưởng mới và sự hoàn thiện. Bạn được khuyến khích đóng góp bằng cách:
+- Hoàn thiện các ghi chú đang ở trạng thái `status/draft`.
+- Đề xuất thêm các kịch bản phỏng vấn (Interview Scenario) thực tế.
+- Chỉnh sửa các ví dụ code để trở nên idiomatic hơn.
+
+Hãy bắt đầu hành trình làm chủ tri thức bằng cách khám phá thư mục `01-Knowledge`.
