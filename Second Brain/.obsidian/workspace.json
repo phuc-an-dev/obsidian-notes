@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d6a26a3b8c3528c8",
+        "id": "9168c3a96400bb7a",
         "type": "tabs",
         "children": [
           {
-            "id": "872f5b39a1d5d89b",
+            "id": "67eaf2e1edaac7a3",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -36,8 +36,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:type/concept",
+                "query": "httpclient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Knowledge/java-core/Optional.md",
+                "file": "01-Knowledge/java-core/Compact Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Optional"
+              "title": "Backlinks for Compact Constructor"
             }
           },
           {
@@ -179,34 +179,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "872f5b39a1d5d89b",
+  "active": "67eaf2e1edaac7a3",
   "lastOpenFiles": [
-    "01-Knowledge/java-spring/spring-cloud-starter-aws.md",
-    "01-Knowledge/java-spring/RestClient in Spring Boot.md",
-    "01-Knowledge/java-spring/RestTemplate in Spring Boot.md",
-    "2026-04-17.md",
-    "Feign Client in Spring Boot]], [[WebClient in Spring Boot.md",
-    "HTTP Clients in Spring]], [[WebClient in Spring Boot.md",
-    "HTTP Clients in Spring]], [[RestTemplate in Spring Boot]], [[RestClient in Spring Boot.md",
-    "01-Knowledge/java-spring/WebClient in Spring Boot.md",
-    "01-Knowledge/react/react-lifecycle.md",
-    "01-Knowledge/java-core/Pattern Matching for Switch.md",
-    "01-Knowledge/java-core/Optional.md",
-    "01-Knowledge/system-design/RESTful API.md",
-    "01-Knowledge/react/useState.md",
-    "01-Knowledge/others/google-tag.md",
-    "01-Knowledge/react/i18next.md",
-    "01-Knowledge/database/criteria-api.md",
-    "01-Knowledge/java-spring/EventListener in Spring Boot.md",
-    "01-Knowledge/others/framework-agnostic.md",
-    "01-Knowledge/java-spring/specification-spring-data-jpa.md",
-    "01-Knowledge/react/query-key-array.md",
-    "01-Knowledge/react/query-key-factory.md",
-    "01-Knowledge/react/react-suspense.md",
-    "01-Knowledge/javascript/typescript.md",
-    "01-Knowledge/javascript/axios.md",
-    "01-Knowledge/javascript/dayjs.md",
-    "01-Knowledge/react/i18next-best-practices.md",
+    "01-Knowledge/nextjs/nextjs.md",
+    "01-Knowledge/react/zustand.md",
+    "01-Knowledge/react/feature-based-structure.md",
+    "01-Knowledge/react/memoization-performance.md",
+    "01-Knowledge/react/conditional-rendering.md",
+    "01-Knowledge/react/generics-in-react.md",
+    "01-Knowledge/react/use-ref.md",
+    "01-Knowledge/react/context-api-typing.md",
+    "01-Knowledge/react/custom-hooks.md",
+    "01-Knowledge/react/event-typing.md",
+    "01-Knowledge/react/use-state-typing.md",
+    "01-Knowledge/react/props-typing.md",
+    "01-Knowledge/database/railway-postgresql.md",
+    "01-Knowledge/system-design/file-upload-workflow.md",
+    "01-Knowledge/system-design/basic-web-architecture.md",
+    "01-Knowledge/aws/regions.md",
+    "01-Knowledge/aws/route53.md",
+    "01-Knowledge/aws/codepipeline.md",
+    "01-Knowledge/aws/sqs.md",
+    "01-Knowledge/aws/s3-presigned-url.md",
+    "01-Knowledge/aws/iam.md",
+    "01-Knowledge/aws/cloudfront.md",
+    "01-Knowledge/aws/rds.md",
+    "01-Knowledge/aws/lambda.md",
+    "01-Knowledge/aws/s3.md",
+    "01-Knowledge/aws/ec2.md",
+    "01-Knowledge/aws",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Untitled 1.base",
     "01-Knowledge/nodejs",
     "01-Knowledge/others",
     "01-Knowledge/database",
@@ -214,12 +218,8 @@
     "01-Knowledge/devops",
     "01-Knowledge/react",
     "01-Knowledge/javascript",
-    "01-Knowledge/java-core",
-    "Untitled.base",
-    "Untitled",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Untitled 1.canvas"
   ]
 }

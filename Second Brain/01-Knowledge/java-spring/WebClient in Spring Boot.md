@@ -10,6 +10,7 @@ related:
   - "[[HTTP Clients in Spring]]"
   - "[[RestTemplate in Spring Boot]]"
   - "[[RestClient in Spring Boot]]"
+  - "[[ExchangeStrategies in WebClient]]"
 ---
 
 # WebClient in Spring Boot
