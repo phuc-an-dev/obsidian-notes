@@ -168,16 +168,18 @@ related:
 
 ## 5. Quy tắc tổ chức thư mục
 
-Tất cả các note kiến thức phải được đặt vào đúng thư mục con trong `Second Brain/01-Knowledge/`. Nếu thư mục chưa tồn tại, phải tạo mới. Tuyệt đối không để note trực tiếp ở thư mục gốc của Knowledge.
+**Quy tắc bắt buộc**: Mọi note kiến thức, tài nguyên và dự án PHẢI nằm trong thư mục `Second Brain/`. Tuyệt đối không để note ở thư mục gốc của project.
+
+Tất cả các note kiến thức phải được đặt vào đúng thư mục con trong `Second Brain/01-Knowledge/`. Nếu thư mục chưa tồn tại, phải tạo mới.
 
 | Tech Stack | Thư mục đích |
 |:-----------|:-------------|
-| Java Core | `01-Knowledge/java-core/` |
-| Spring Boot | `01-Knowledge/java-spring/` |
-| JavaScript | `01-Knowledge/javascript/` |
-| Node.js | `01-Knowledge/nodejs/` |
-| React | `01-Knowledge/react/` |
-| DevOps / AWS | `01-Knowledge/devops/` |
-| System Design | `01-Knowledge/system-design/` |
-| Database | `01-Knowledge/database/` |
-| Khác | `01-Knowledge/others/` |
+| Java Core | `Second Brain/01-Knowledge/java-core/` |
+| Spring Boot | `Second Brain/01-Knowledge/java-spring/` |
+| JavaScript | `Second Brain/01-Knowledge/javascript/` |
+| Node.js | `Second Brain/01-Knowledge/nodejs/` |
+| React | `Second Brain/01-Knowledge/react/` |
+| DevOps / AWS | `Second Brain/01-Knowledge/devops/` |
+| System Design | `Second Brain/01-Knowledge/system-design/` |
+| Database | `Second Brain/01-Knowledge/database/` |
+| Khác | `Second Brain/01-Knowledge/others/` |

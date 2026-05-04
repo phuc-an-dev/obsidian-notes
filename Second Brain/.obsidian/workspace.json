@@ -11,10 +11,14 @@
             "id": "67eaf2e1edaac7a3",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-Knowledge/aws/aws-configure-command.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aws-configure-command"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "httpclient",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Knowledge/java-core/Compact Constructor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Compact Constructor"
+              "title": "Backlinks"
             }
           },
           {
@@ -109,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Knowledge/java-core/Optional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Optional"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,21 +154,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-Knowledge/java-core/Optional.md",
+                "file": "01-Knowledge/aws/aws-configure-command.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Optional"
+              "title": "Outline of aws-configure-command"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,32 +183,33 @@
   },
   "active": "67eaf2e1edaac7a3",
   "lastOpenFiles": [
-    "01-Knowledge/nextjs/nextjs.md",
-    "01-Knowledge/react/zustand.md",
-    "01-Knowledge/react/feature-based-structure.md",
-    "01-Knowledge/react/memoization-performance.md",
-    "01-Knowledge/react/conditional-rendering.md",
-    "01-Knowledge/react/generics-in-react.md",
-    "01-Knowledge/react/use-ref.md",
-    "01-Knowledge/react/context-api-typing.md",
-    "01-Knowledge/react/custom-hooks.md",
-    "01-Knowledge/react/event-typing.md",
-    "01-Knowledge/react/use-state-typing.md",
-    "01-Knowledge/react/props-typing.md",
-    "01-Knowledge/database/railway-postgresql.md",
-    "01-Knowledge/system-design/file-upload-workflow.md",
-    "01-Knowledge/system-design/basic-web-architecture.md",
     "01-Knowledge/aws/regions.md",
-    "01-Knowledge/aws/route53.md",
-    "01-Knowledge/aws/codepipeline.md",
-    "01-Knowledge/aws/sqs.md",
-    "01-Knowledge/aws/s3-presigned-url.md",
+    "01-Knowledge/others/macos-environment-variables.md",
+    "01-Knowledge/devops/ssh-connection-with-key.md",
+    "01-Knowledge/devops/linux-system-monitoring.md",
+    "01-Knowledge/devops/apt-package-management.md",
+    "01-Knowledge/devops/SSH.md",
+    "01-Knowledge/aws/iam-role-for-ec2.md",
+    "01-Knowledge/aws/iam-policy.md",
+    "01-Knowledge/aws/aws-configure-command.md",
+    "01-Knowledge/aws/aws-cli-configuration.md",
+    "01-Knowledge/aws/assign-iam-role-to-ec2.md",
     "01-Knowledge/aws/iam.md",
-    "01-Knowledge/aws/cloudfront.md",
-    "01-Knowledge/aws/rds.md",
-    "01-Knowledge/aws/lambda.md",
-    "01-Knowledge/aws/s3.md",
-    "01-Knowledge/aws/ec2.md",
+    "01-Knowledge/devops/GitHub Actions.md",
+    "01-Knowledge/devops/chmod 400.md",
+    "01-Knowledge/git/Git LFS.md",
+    "01-Knowledge/aws/s3-presigned-url.md",
+    "01-Knowledge/java-core/AtomicInteger.md",
+    "01-Knowledge/java-core/InputStream.md",
+    "01-Knowledge/java-core/IOException.md",
+    "01-Knowledge/java-core/Checked vs Unchecked Exception.md",
+    "01-Knowledge/java-core/ByteArrayOutputStream.md",
+    "01-Knowledge/java-core/ByteArrayInputStream.md",
+    "01-Knowledge/java-core/apache-tika.md",
+    "01-Knowledge/java-core/DateTimeFormatter.md",
+    "01-Knowledge/java-core/ZoneOffset.md",
+    "01-Knowledge/java-core/LocalDateTime.md",
+    "01-Knowledge/git",
     "01-Knowledge/aws",
     "Untitled.canvas",
     "Untitled.base",
@@ -217,7 +220,6 @@
     "01-Knowledge/system-design",
     "01-Knowledge/devops",
     "01-Knowledge/react",
-    "01-Knowledge/javascript",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
