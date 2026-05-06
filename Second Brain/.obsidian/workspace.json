@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "306ff8528b5bedaa",
+        "id": "5a45eb78ce0b9be3",
         "type": "tabs",
         "children": [
           {
-            "id": "7624acd3969ca15f",
+            "id": "c51f260797d680d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Knowledge/aws/codepipeline.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "codepipeline"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,45 +179,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "a0a0c9b72e908b95",
+  "active": "c51f260797d680d9",
   "lastOpenFiles": [
+    "01-Knowledge/aws/AWS AMI.md",
+    "01-Knowledge/aws/aws-cloudtrail.md",
+    "01-Knowledge/aws/route53.md",
+    "01-Knowledge/aws/codepipeline.md",
+    "01-Knowledge/devops/Certbot.md",
+    "01-Knowledge/devops/SSL for Nginx in Ubuntu.md",
+    "01-Knowledge/security/SSL and TLS.md",
+    "01-Knowledge/security",
+    "01-Knowledge/devops/Common Nginx Commands.md",
+    "01-Knowledge/devops/Nginx Configuration for Spring Boot in EC2.md",
+    "01-Knowledge/linux/Nano Editor in Ubuntu.md",
+    "01-Knowledge/devops/Nginx in Ubuntu.md",
+    "01-Knowledge/aws/AWS Inbound Rules.md",
+    "01-Knowledge/linux/Common Ubuntu Commands.md",
+    "01-Knowledge/linux",
+    "01-Knowledge/integrations/bruno.md",
+    "01-Knowledge/integrations/Postman.md",
+    "01-Knowledge/docker/Common Docker Commands.md",
+    "01-Knowledge/docker/Docker in Ubuntu.md",
+    "01-Knowledge/aws/ssh-tools-ec2-macos.md",
+    "01-Knowledge/docker/Docker Image.md",
+    "01-Knowledge/docker/docker-hub.md",
+    "01-Knowledge/docker",
+    "01-Knowledge/github/github-actions-cd.md",
+    "01-Knowledge/github/github-actions-ci.md",
     "01-Knowledge/integrations/napkin-ai.md",
     "01-Knowledge/integrations/xola-operator-connection.md",
     "01-Knowledge/integrations/ventrata-octo-api.md",
     "01-Knowledge/integrations/tinyMCE.md",
-    "01-Knowledge/integrations/google-tag.md",
-    "01-Knowledge/integrations/google-apps-script.md",
-    "01-Knowledge/methodology/framework-agnostic.md",
-    "01-Knowledge/methodology/tdd.md",
-    "01-Knowledge/methodology/ddd.md",
-    "01-Knowledge/github/github-upload-artifact-jar.md",
-    "01-Knowledge/github/github-teams.md",
-    "01-Knowledge/github/github-slack-notification.md",
-    "01-Knowledge/github/github-secrets.md",
-    "01-Knowledge/github/github-secrets-and-variables.md",
-    "01-Knowledge/github/github-secret-injection.md",
-    "01-Knowledge/github/github-repository-roles.md",
-    "01-Knowledge/github/github-organization.md",
-    "01-Knowledge/github/github-oidc.md",
-    "01-Knowledge/github/github-manual-deployment.md",
-    "01-Knowledge/github/github-collaborators.md",
-    "01-Knowledge/github/github-branch-protection.md",
-    "01-Knowledge/github/github-actions-workflow-protection.md",
-    "01-Knowledge/github/github-actions-malicious-workflow.md",
     "01-Knowledge/integrations",
     "01-Knowledge/methodology",
     "01-Knowledge/github",
-    "01-Knowledge/others/napkin-ai.md",
-    "01-Knowledge/others/github-upload-artifact-jar.md",
-    "01-Knowledge/others/github-teams.md",
     "01-Knowledge/git",
     "01-Knowledge/aws",
     "Untitled.canvas",
     "Untitled.base",
     "Untitled 1.base",
-    "01-Knowledge/nodejs",
-    "01-Knowledge/others",
-    "01-Knowledge/database",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

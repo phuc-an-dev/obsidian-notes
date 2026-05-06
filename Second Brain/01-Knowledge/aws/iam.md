@@ -6,8 +6,8 @@ tags:
   - "#lang/devops"
   - "#topic/error-handling"
 related:
-  - "[[ec2]]"
-  - "[[s3]]"
+  - "[[ListAccessKeys in AWS.md]]"
+  - "[[aws-mfa.md]]"
 ---
 
 ## 1. What

@@ -5,7 +5,7 @@ tags:
   - "#status/draft"
   - "#lang/java"
 related:
-  - "[[Event Loop]]"
+  - "[[Event Loop.md]]"
 ---
 
 ## 1. What

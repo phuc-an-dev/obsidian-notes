@@ -5,7 +5,8 @@ tags:
   - "#status/draft"
   - "#lang/java"
   - "#topic/performance"
-related: "[[Record]]"
+related:
+  - "[[Record.md]]"
 ---
 
 ## 1. What

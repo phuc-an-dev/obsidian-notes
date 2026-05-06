@@ -6,8 +6,8 @@ tags:
   - "#lang/java"
   - "#topic/immutability"
 related:
-  - "[[Record]]"
-  - "[[Validated in Spring Boot]]"
+  - "[[Record.md]]"
+  - "[[Validated in Spring Boot.md]]"
 ---
 
 # Compact Constructor

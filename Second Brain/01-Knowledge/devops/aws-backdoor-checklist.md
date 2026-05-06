@@ -6,7 +6,8 @@ tags:
   - "#lang/devops"
   - "#topic/security"
 related:
-  - "[[ec2]]"
+  - "[[ListAccessKeys in AWS.md]]"
+  - "[[aws-ec2-instance.md]]"
 ---
 
 ## 1. What

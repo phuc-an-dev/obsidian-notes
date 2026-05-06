@@ -6,8 +6,10 @@ tags:
   - "#lang/java"
   - "#topic/immutability"
 related:
-  - "[[Optional]]"
-  - "[[Pattern Matching for Switch]]"
+  - "[[Optional.md]]"
+  - "[[Pattern Matching for Switch.md]]"
+  - "[[Compact Constructor.md]]"
+  - "[[Transient.md]]"
 ---
 
 # Record

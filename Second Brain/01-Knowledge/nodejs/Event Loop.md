@@ -6,7 +6,8 @@ tags:
   - "#lang/nodejs"
   - "#topic/async"
 related:
-  - "[[Non-blocking IO]]"
+  - "[[Non-blocking IO.md]]"
+  - "[[EventListener in Spring Boot.md]]"
 ---
 
 # Event Loop

@@ -6,7 +6,8 @@ tags:
   - "#lang/spring"
   - "#topic/async"
 related:
-  - "[[Spring HTTP Core Classes]]"
+  - "[[Spring HTTP Core Classes.md]]"
+  - "[[Event Loop.md]]"
 ---
 
 # EventListener in Spring Boot

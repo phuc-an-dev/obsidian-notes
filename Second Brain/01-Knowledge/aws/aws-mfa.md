@@ -6,7 +6,9 @@ tags:
   - "#lang/devops"
   - "#topic/security"
 related:
-  - "[[aws-cloudtrail]]"
+  - "[[iam.md]]"
+  - "[[ListAccessKeys in AWS.md]]"
+  - "[[aws-cloudtrail.md]]"
 ---
 
 ## 1. What
