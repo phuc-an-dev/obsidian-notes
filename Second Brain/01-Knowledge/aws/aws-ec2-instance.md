@@ -6,8 +6,9 @@ tags:
   - "#lang/devops"
   - "#topic/compute"
 related:
-  - "[[aws-ec2-security-groups]]"
-  - "[[aws-ec2-key-pairs]]"
+  - "[[aws-ec2-security-groups.md]]"
+  - "[[aws-ec2-key-pairs.md]]"
+  - "[[Instance Metadata Service (IMDS).md]]"
 ---
 
 ## 1. What

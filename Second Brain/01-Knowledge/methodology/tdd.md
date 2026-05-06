@@ -6,7 +6,8 @@ tags:
   - "#lang/java"
   - "#topic/performance"
 related:
-  - "[[DDD]]"
+  - "[[ddd.md]]"
+  - "[[Reproduce.md]]"
 ---
 
 # Test-Driven Development (TDD)

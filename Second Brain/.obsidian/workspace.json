@@ -11,10 +11,14 @@
             "id": "c51f260797d680d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01-Knowledge/aws/Instance Metadata Service (IMDS).md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Instance Metadata Service (IMDS)"
             }
           }
         ]
@@ -181,6 +185,20 @@
   },
   "active": "c51f260797d680d9",
   "lastOpenFiles": [
+    "01-Knowledge/github/github-rollback.md",
+    "01-Knowledge/methodology/Reproduce.md",
+    "01-Knowledge/java-spring/@PostConstruct in Spring Boot.md",
+    "01-Knowledge/java-spring/PropertyNamingStrategy in Jackson.md",
+    "01-Knowledge/aws/Instance Metadata Service (IMDS).md",
+    "01-Knowledge/java-spring/PropertyNamingStrategies in Jackson.md",
+    "01-Knowledge/java-spring/Dependency Conflict in Spring Boot.md",
+    "01-Knowledge/java-spring/Force Dependency Version in Spring Boot.md",
+    "01-Knowledge/java-spring/BOM in Spring Boot.md",
+    "01-Knowledge/java-spring/Dependency Tree in Spring Boot.md",
+    "01-Knowledge/java-spring/Transitive Dependency in Spring Boot.md",
+    "01-Knowledge/others/Environment Variables.md",
+    "01-Knowledge/github/github-environment-secrets.md",
+    "01-Knowledge/github/github-environments.md",
     "01-Knowledge/aws/AWS AMI.md",
     "01-Knowledge/aws/aws-cloudtrail.md",
     "01-Knowledge/aws/route53.md",
@@ -194,22 +212,8 @@
     "01-Knowledge/linux/Nano Editor in Ubuntu.md",
     "01-Knowledge/devops/Nginx in Ubuntu.md",
     "01-Knowledge/aws/AWS Inbound Rules.md",
-    "01-Knowledge/linux/Common Ubuntu Commands.md",
     "01-Knowledge/linux",
-    "01-Knowledge/integrations/bruno.md",
-    "01-Knowledge/integrations/Postman.md",
-    "01-Knowledge/docker/Common Docker Commands.md",
-    "01-Knowledge/docker/Docker in Ubuntu.md",
-    "01-Knowledge/aws/ssh-tools-ec2-macos.md",
-    "01-Knowledge/docker/Docker Image.md",
-    "01-Knowledge/docker/docker-hub.md",
     "01-Knowledge/docker",
-    "01-Knowledge/github/github-actions-cd.md",
-    "01-Knowledge/github/github-actions-ci.md",
-    "01-Knowledge/integrations/napkin-ai.md",
-    "01-Knowledge/integrations/xola-operator-connection.md",
-    "01-Knowledge/integrations/ventrata-octo-api.md",
-    "01-Knowledge/integrations/tinyMCE.md",
     "01-Knowledge/integrations",
     "01-Knowledge/methodology",
     "01-Knowledge/github",

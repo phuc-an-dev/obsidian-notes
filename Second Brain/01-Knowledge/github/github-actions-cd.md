@@ -11,6 +11,7 @@ related:
   - "[[github-environments.md]]"
   - "[[github-actions-triggers.md]]"
   - "[[docker-hub.md]]"
+  - "[[github-environment-secrets.md]]"
 ---
 
 ## 1. What
