@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9168c3a96400bb7a",
+        "id": "306ff8528b5bedaa",
         "type": "tabs",
         "children": [
           {
-            "id": "67eaf2e1edaac7a3",
+            "id": "7624acd3969ca15f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "01-Knowledge/aws/codepipeline.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "codepipeline"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "httpclient",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,34 +184,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "67eaf2e1edaac7a3",
+  "active": "a0a0c9b72e908b95",
   "lastOpenFiles": [
-    "01-Knowledge/nextjs/nextjs.md",
-    "01-Knowledge/react/zustand.md",
-    "01-Knowledge/react/feature-based-structure.md",
-    "01-Knowledge/react/memoization-performance.md",
-    "01-Knowledge/react/conditional-rendering.md",
-    "01-Knowledge/react/generics-in-react.md",
-    "01-Knowledge/react/use-ref.md",
-    "01-Knowledge/react/context-api-typing.md",
-    "01-Knowledge/react/custom-hooks.md",
-    "01-Knowledge/react/event-typing.md",
-    "01-Knowledge/react/use-state-typing.md",
-    "01-Knowledge/react/props-typing.md",
-    "01-Knowledge/database/railway-postgresql.md",
-    "01-Knowledge/system-design/file-upload-workflow.md",
-    "01-Knowledge/system-design/basic-web-architecture.md",
-    "01-Knowledge/aws/regions.md",
-    "01-Knowledge/aws/route53.md",
-    "01-Knowledge/aws/codepipeline.md",
-    "01-Knowledge/aws/sqs.md",
-    "01-Knowledge/aws/s3-presigned-url.md",
-    "01-Knowledge/aws/iam.md",
-    "01-Knowledge/aws/cloudfront.md",
-    "01-Knowledge/aws/rds.md",
-    "01-Knowledge/aws/lambda.md",
-    "01-Knowledge/aws/s3.md",
-    "01-Knowledge/aws/ec2.md",
+    "01-Knowledge/integrations/napkin-ai.md",
+    "01-Knowledge/integrations/xola-operator-connection.md",
+    "01-Knowledge/integrations/ventrata-octo-api.md",
+    "01-Knowledge/integrations/tinyMCE.md",
+    "01-Knowledge/integrations/google-tag.md",
+    "01-Knowledge/integrations/google-apps-script.md",
+    "01-Knowledge/methodology/framework-agnostic.md",
+    "01-Knowledge/methodology/tdd.md",
+    "01-Knowledge/methodology/ddd.md",
+    "01-Knowledge/github/github-upload-artifact-jar.md",
+    "01-Knowledge/github/github-teams.md",
+    "01-Knowledge/github/github-slack-notification.md",
+    "01-Knowledge/github/github-secrets.md",
+    "01-Knowledge/github/github-secrets-and-variables.md",
+    "01-Knowledge/github/github-secret-injection.md",
+    "01-Knowledge/github/github-repository-roles.md",
+    "01-Knowledge/github/github-organization.md",
+    "01-Knowledge/github/github-oidc.md",
+    "01-Knowledge/github/github-manual-deployment.md",
+    "01-Knowledge/github/github-collaborators.md",
+    "01-Knowledge/github/github-branch-protection.md",
+    "01-Knowledge/github/github-actions-workflow-protection.md",
+    "01-Knowledge/github/github-actions-malicious-workflow.md",
+    "01-Knowledge/integrations",
+    "01-Knowledge/methodology",
+    "01-Knowledge/github",
+    "01-Knowledge/others/napkin-ai.md",
+    "01-Knowledge/others/github-upload-artifact-jar.md",
+    "01-Knowledge/others/github-teams.md",
+    "01-Knowledge/git",
     "01-Knowledge/aws",
     "Untitled.canvas",
     "Untitled.base",
@@ -214,10 +223,6 @@
     "01-Knowledge/nodejs",
     "01-Knowledge/others",
     "01-Knowledge/database",
-    "01-Knowledge/system-design",
-    "01-Knowledge/devops",
-    "01-Knowledge/react",
-    "01-Knowledge/javascript",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"
