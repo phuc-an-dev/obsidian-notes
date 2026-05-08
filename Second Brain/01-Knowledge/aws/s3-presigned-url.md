@@ -8,6 +8,7 @@ tags:
 related:
   - "[[s3]]"
   - "[[iam]]"
+  - "[[aws-bucket-policy]]"
 ---
 
 ## 1. What

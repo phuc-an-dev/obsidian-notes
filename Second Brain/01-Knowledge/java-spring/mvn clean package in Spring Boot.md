@@ -7,6 +7,10 @@ tags:
   - "#topic/performance"
 related:
   - "[[Nginx Configuration for Spring Boot in EC2.md]]"
+  - "[[mvnw.md]]"
+  - "[[maven-compiler-plugin with annotationProcessorPaths.md]]"
+  - "[[@SpringBootTest in Spring Boot.md]]"
+  - "[[MySQL JDBC Driver Deprecation.md]]"
 ---
 
 ## 1. What

@@ -9,6 +9,8 @@ related:
   - "[[docker-hub.md]]"
   - "[[Common Docker Commands.md]]"
   - "[[Docker in Ubuntu.md]]"
+  - "[[Docker Buildx Cross-compile.md]]"
+  - "[[Amazon Elastic Container Registry (ECR).md]]"
 ---
 
 ## 1. What

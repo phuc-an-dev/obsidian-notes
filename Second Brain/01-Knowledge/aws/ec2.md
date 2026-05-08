@@ -6,7 +6,9 @@ tags:
   - "#lang/devops"
   - "#topic/performance"
 related:
-  - "[[]]"
+  - "[[s3]]"
+  - "[[MySQL on EC2 vs AWS RDS]]"
+  - "[[Associate Elastic IP address in AWS]]"
 ---
 
 ## 1. What

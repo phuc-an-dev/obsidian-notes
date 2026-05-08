@@ -9,6 +9,7 @@ related:
   - "[[github-secrets.md]]"
   - "[[Nginx Configuration for Spring Boot in EC2.md]]"
   - "[[github-environment-secrets.md]]"
+  - "[[yaml.md]]"
 ---
 
 ## 1. What

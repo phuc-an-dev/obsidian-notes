@@ -8,6 +8,7 @@ tags:
 related:
   - "[[nextjs]]"
   - "[[server-vs-client-components]]"
+  - "[[transpilePackages in Next.js]]"
 ---
 
 ## 1. What

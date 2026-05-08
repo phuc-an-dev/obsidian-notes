@@ -10,6 +10,8 @@ related:
   - "[[github-secrets.md]]"
   - "[[github-actions-cd.md]]"
   - "[[github-actions-triggers.md]]"
+  - "[[GitHub Actions MySQL Service Container.md]]"
+  - "[[dependabot-github.md]]"
 ---
 
 ## 1. What

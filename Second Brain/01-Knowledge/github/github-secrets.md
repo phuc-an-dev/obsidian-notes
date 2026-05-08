@@ -9,6 +9,7 @@ related:
   - "[[github-actions-malicious-workflow]]"
   - "[[github-secrets-and-variables]]"
   - "[[github-secret-injection]]"
+  - "[[dependabot-github]]"
 ---
 
 ## 1. What

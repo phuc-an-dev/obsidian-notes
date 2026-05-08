@@ -9,6 +9,7 @@ related:
   - "[[github-actions-malicious-workflow]]"
   - "[[github-branch-protection]]"
   - "[[github-repository-roles]]"
+  - "[[dependabot-github]]"
 ---
 
 ## 1. What

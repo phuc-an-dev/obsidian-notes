@@ -8,6 +8,9 @@ tags:
 related:
   - "[[Docker Image.md]]"
   - "[[Docker in Ubuntu.md]]"
+  - "[[Docker Daemon.md]]"
+  - "[[docker-compose-up-d.md]]"
+  - "[[Auth Docker with ECR.md]]"
 ---
 
 ## 1. What

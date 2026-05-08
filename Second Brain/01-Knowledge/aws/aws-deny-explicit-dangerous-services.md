@@ -7,6 +7,8 @@ tags:
   - "#topic/security"
 related:
   - "[[aws-budget-alert]]"
+  - "[[aws-iam-hardening]]"
+  - "[[aws-power-user-access]]"
 ---
 
 ## 1. What

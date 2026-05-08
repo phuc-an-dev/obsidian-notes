@@ -8,6 +8,7 @@ tags:
 related:
   - "[[ec2]]"
   - "[[s3]]"
+  - "[[Image Cropping with AWS Lambda and S3]]"
 ---
 
 ## 1. What

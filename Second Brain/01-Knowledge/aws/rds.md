@@ -8,6 +8,7 @@ tags:
 related:
   - "[[ec2]]"
   - "[[s3]]"
+  - "[[MySQL on EC2 vs AWS RDS]]"
 ---
 
 ## 1. What

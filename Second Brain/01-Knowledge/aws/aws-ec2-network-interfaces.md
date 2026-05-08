@@ -7,6 +7,7 @@ tags:
   - "#topic/aws"
 related:
   - "[[ec2]]"
+  - "[[Associate Elastic IP address in AWS]]"
 ---
 
 ## 1. What

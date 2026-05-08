@@ -9,6 +9,7 @@ related:
   - "[[iam.md]]"
   - "[[ListAccessKeys in AWS.md]]"
   - "[[aws-cloudtrail.md]]"
+  - "[[aws-iam-hardening]]"
 ---
 
 ## 1. What

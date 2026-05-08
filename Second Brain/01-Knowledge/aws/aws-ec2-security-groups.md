@@ -8,6 +8,7 @@ tags:
 related:
   - "[[aws-ec2-instance]]"
   - "[[aws-ec2-key-pairs]]"
+  - "[[aws-bucket-policy]]"
 ---
 
 ## 1. What

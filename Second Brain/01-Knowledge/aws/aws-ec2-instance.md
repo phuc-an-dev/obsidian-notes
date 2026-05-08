@@ -9,6 +9,7 @@ related:
   - "[[aws-ec2-security-groups.md]]"
   - "[[aws-ec2-key-pairs.md]]"
   - "[[Instance Metadata Service (IMDS).md]]"
+  - "[[Associate Elastic IP address in AWS]]"
 ---
 
 ## 1. What

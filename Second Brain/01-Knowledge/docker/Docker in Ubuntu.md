@@ -8,6 +8,7 @@ tags:
 related:
   - "[[Docker Image.md]]"
   - "[[Common Docker Commands.md]]"
+  - "[[Nextjs Standalone Host Binding.md]]"
 ---
 
 ## 1. What

@@ -7,6 +7,9 @@ tags:
   - "#topic/performance"
 related:
   - "[[react-lifecycle]]"
+  - "[[transpilePackages in Next.js]]"
+  - "[[Nextjs Standalone Host Binding]]"
+  - "[[npm-audit-fix]]"
 ---
 
 ## 1. What

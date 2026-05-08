@@ -8,6 +8,7 @@ tags:
 related:
   - "[[Nginx Configuration for Spring Boot in EC2.md]]"
   - "[[AWS Inbound Rules.md]]"
+  - "[[csrf.md]]"
 ---
 
 ## 1. What
